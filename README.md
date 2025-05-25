@@ -29,9 +29,3 @@ certificate-contract/
 ├── package.json
 └── README.md
 
----
-
-*🙌 Credits*
-Developed by Nathafhrz
-Part of final project – Certificate Storage DApp
-Powered by Ethereum & IPFS – 2025
