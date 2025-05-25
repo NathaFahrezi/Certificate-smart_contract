@@ -29,6 +29,7 @@ certificate-contract/
 ├── package.json
 └── README.md
 
+---
 
 *🙌 Credits*
 Developed by Nathafhrz
