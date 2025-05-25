@@ -30,7 +30,7 @@ certificate-contract/
 └── README.md
 
 
-🙌 Credits 
+*🙌 Credits*
 Developed by Nathafhrz
 Part of final project – Certificate Storage DApp
 Powered by Ethereum & IPFS – 2025
